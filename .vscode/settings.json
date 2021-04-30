@@ -21,4 +21,5 @@
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
+  "python.pythonPath": "/opt/anaconda3/envs/torch_p38/bin/python",
 }
